@@ -1,0 +1,30 @@
+{
+  "name": "rankingburgentiebot",
+  "version": "1.0.0",
+  "description": "ranking bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "ranking",
+    "rank",
+    "bot",
+    "discord"
+  ],
+  "author": "Lesley",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^4.0.1",
+    "discord.js": "^12.3.1",
+    "install": "^0.13.0",
+    "jimp": "^0.16.1",
+    "loader": "^2.1.1",
+    "node-pre-gyp": "^0.15.0",
+    "quick.db": "^7.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
